@@ -1,11 +1,11 @@
 # OneNews
 
-**OneNews** is a fully functional news application built with React, designed to deliver real-time news across multiple categories with an attractive and intuitive user interface. The app utilizes infinite scrolling for seamless reading and features a top loading bar for visual feedback on loading. News content is fetched dynamically from the **News API** to provide users with the latest updates in categories like Entertainment, Science, General, Technology, and more.
+**OneNews** is a fully functional news application built with React. It is designed to deliver real-time news across multiple categories with an attractive and intuitive user interface. The app utilizes infinite scrolling for seamless reading and features a top loading bar for visual feedback on loading. News content is fetched dynamically from the **News API** to provide users with the latest updates in categories like Entertainment, Science, General, Technology, and more.
 
 ## Features
 
-- **Infinite Scrolling**: Enables continuous article loading as the user scrolls, creating a smooth and uninterrupted reading experience.
-- **Top Loading Bar**: Shows loading progress at the top of the page for better user feedback while news articles are being fetched.
+- **Infinite Scrolling**: This feature enables continuous article loading as the user scrolls, creating a smooth and uninterrupted reading experience.
+- **Top Loading Bar**: This bar shows loading progress at the top of the page to improve user feedback while news articles are being fetched.
 - **Dynamic Categories**: Allows users to browse news by category, including:
   - Entertainment
   - Science
@@ -16,8 +16,11 @@
 - **Real-Time News**: Fetches the latest news articles from the News API, ensuring fresh content for users.
 
 ## Demo
+<!-- Add a screenshot of your app here -->
+![image1](https://github.com/user-attachments/assets/88c503da-c30d-42df-aa84-0cc834a91d95)
 
-![OneNews Screenshot](https://your-image-url.com) <!-- Add a screenshot of your app here -->
+https://github.com/user-attachments/assets/92e7ce15-db00-494f-8d93-470249b90d26
+#
 
 ## Prerequisites
 
